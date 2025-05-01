@@ -1,3 +1,5 @@
 File added online
 now modified
-This is nigeria
+
+ok, merge conflict settled
+
